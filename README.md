@@ -91,7 +91,7 @@ If you already have the models downloaded, they can also be stored locally and l
 
 ```bash
 git clone <repository_url>
-cd elc_4thsem
+cd folder_name
 ```
 
 ### 2. Create a virtual environment (recommended)
